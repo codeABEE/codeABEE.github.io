@@ -166,10 +166,10 @@ footer i{
   text-decoration: none;
   font-weight: bold;
 }
-@media(min-width:900px){
+/* @media(min-width:900px){
   article{
     width: 60vw;
     margin: 0 auto;
     margin-bottom: 2rem;
   }
-}
+} */
